@@ -76,7 +76,7 @@ Ejemplos:
 	</tr>
   <tr style="text-align: left; vertical-align: middle;" bgcolor="#e4e4ed">
     <td style="color:#141414">Fecha</td>
-    <td style="color:#141414">Entrega final: Semana 26 a 30 de junio. <br> Se publicará horarios de presentación de 15 minutos para cada grupo, es posible que traiga uno o dos jurados para que den concepto de su solución.</td>
+    <td style="color:#141414">Avance: Semana 13 de noviembre. <br> Entrega final: Semana 26 de noviembre. <br> Se publicará horarios de presentación de 15 minutos para cada grupo, es posible que traiga uno o dos jurados para que den concepto de su solución.</td>
 	</tr>
   <tr style="text-align: left; vertical-align: middle;" bgcolor="#e4e4ed">
     <td style="color:#141414">Forma de trabajo</td>
@@ -92,7 +92,7 @@ Ejemplos:
   <tr style="text-align: left; vertical-align: middle;" bgcolor="#e4e4ed">
     <td style="color:#141414">Nota</td>
     <td style="color:#141414">
-    Según plan de curso vale el 32% y estaba distribuido en dos entregas, pero dada la anormalidad, solo será una entrega final. Sin embargo, cualquier avance adicional que me muestren puede ir sumando.
+    Avance (10%) - Estructura inicial, elección de alternativa - planteamiento de posible solución - diagrama preliminar. <br> Entrega Final (25%)
     </td>
 	</tr>
 </table>
