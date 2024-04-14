@@ -14,6 +14,8 @@ Condiciones:
   - Ingreso de las palabras: Lista de coordenadas, Strings.
   - Nivel de dificultad: Asociado a cantidad de palabras, verticales, horizontales, diagonal.
 
+Máximo 3 grupos.
+
 **Features extra:**<br>
  + Cuenta regresiva
  + Sombreado o cambio visual de las palabras encontradas
@@ -41,6 +43,7 @@ Condiciones:
  + Soporte para otros idiomas (*inglés*, *francés*, *aleman*)
  + Manejo de jugadores (2 juegos simultaneos)
 
+Máximo 3 grupos.
 
 ### Alternativa 3
 Dado que no todo es videojuegos en la vida se propone la opción libre de proyecto, donde se tendrá la posibilidad de elegir un problema acotado del área de estudio de cada equipo y resolverlo empleado un desarrollo en *python*. Las condiciones para el desarrollo del proyecto libre son más generales.
@@ -54,12 +57,15 @@ Condiciones:
  + Dificultas similar a los juegos, no se vale un programa para calcular tablas de multiplicar.
 
 Ejemplos:
+ + **Mecatronica:** Programa que suguiera combinaciones de resistencias comerciales a partir de una resistencia de un valor dado. -- Programa que permita elegir un motor DC a partir de unos requerimientos mecánicos y electronicos definidos. -- Programa que permita resolver ecuaciones de hasta 5to grado usando métodos númericos o soluciones cerradas.
  + **Industrial:** Un programa que carge datos de un CSV o un JSON y haga analisis estadistico relevante.
- + **Electrica:** Un programa que pueda resolver circuitos sencillos (RL, RC) y hagra las graficas en consola (eso sería medio pro).
+ + **Electrónica:** Un programa que pueda resolver circuitos sencillos (RL, RC) y hagra las graficas en consola (eso sería medio pro).
  + **Quimica:** Un programa que permita resolver ecuaciones estequimetricas (sencillas) a partir de cantidades ingresadas por el usuario.
  + **Agricola:** Un programa que permita hacer calculo de poligonales o un programa que permita use pronosticos climaticos para dar recomendaciones de ciertos cultivos.
 
- **Disclaimer:** Son solo ideas, si hubiese mecatrónicos.....ufffff les tendría muchas propuestas (no se sientan juzgados, pero pues la nostalgia).
+ Pueden tomar más ideas de ejemplo del libro *Automate the Boring Stuff with Python*.
+
+
 
  ### Condiciones de entrega:
 
@@ -76,7 +82,7 @@ Ejemplos:
 	</tr>
   <tr style="text-align: left; vertical-align: middle;" bgcolor="#e4e4ed">
     <td style="color:#141414">Fecha</td>
-    <td style="color:#141414">Avance: Semana 13 de noviembre <br> Entrega final: Semana 26 de Noviembre. <br> Se publicará horarios de presentación de 15 minutos para cada grupo, es posible que traiga uno o dos jurados para que den concepto de su solución.</td>
+    <td style="color:#141414">Avance: Semana 14 <br> Entrega final: Semana 17<br> Se publicará horarios de presentación de 15 minutos para cada grupo, es posible que traiga uno o dos jurados para que den concepto de su solución.</td>
 	</tr>
   <tr style="text-align: left; vertical-align: middle;" bgcolor="#e4e4ed">
     <td style="color:#141414">Forma de trabajo</td>
