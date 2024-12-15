@@ -14,7 +14,10 @@ Condiciones:
   - Ingreso de las palabras: Lista de coordenadas, Strings.
   - Nivel de dificultad: Asociado a cantidad de palabras, verticales, horizontales, diagonal.
 
-Máximo 3 grupos.
+Máximo 2 grupos.
+
+**Foco:** Función para crear la sopa, esto es, poblar las palabras dentro de la matriz de forma aleatoria.
+
 
 **Features extra:**<br>
  + Cuenta regresiva
@@ -22,6 +25,8 @@ Máximo 3 grupos.
  + Interfaz grafica con estructura
  + Manejo de puntajes
  + Posiblidad de ingresar palabras para generar la sopa de letras (a partir de un diccionario)
+
+-----
 
 ### Alternativa 2
 Construir una aplicación que emule un **ahorcado** utilizando *Python*.
@@ -36,6 +41,7 @@ Condiciones:
   - Ingreso de las letras
   - Nivel de dificultad: Asociado a la cantidad de intentos para dibujar el ahorcado, cantidad de caracteres de la palabra.
 
+**Foco:** Función core del juego, a partir de las letras validar existencia en la palabra e ir actualziando interfaz.
 
 **Features extra:**<br>
  + Cuenta regresiva
@@ -43,9 +49,34 @@ Condiciones:
  + Soporte para otros idiomas (*inglés*, *francés*, *aleman*)
  + Manejo de jugadores (2 juegos simultaneos)
 
-Máximo 3 grupos.
+Máximo 2 grupos.
+
+-----
 
 ### Alternativa 3
+Construir una aplicación que emule un **buscaminas** utilizando *Python*.
+
+Condiciones:
+ + Código original
+ + Uso de herramientas vistas en el curso
+ + Interacción y manejo a través de la consola
+ + 3 niveles de dificultad: tamaño de la matriz, cantidad de minas.
+ + Dibujo de la matriz en consola.
+ + Definidido por el usuario:
+  - Forma de interactuar: feclas, por coordenadas
+  
+**Foco:** Función para descubir el terreno y actualizar la frontera de las minas - Recomiendo la estrategia iterativa.
+
+**Features extra:**<br>
+ + Cuenta regresiva
+ + Manejo de puntajes
+ 
+
+Máximo 2 grupos.
+
+----
+
+### Alternativa 4
 Dado que no todo es videojuegos en la vida se propone la opción libre de proyecto, donde se tendrá la posibilidad de elegir un problema acotado del área de estudio de cada equipo y resolverlo empleado un desarrollo en *python*. Las condiciones para el desarrollo del proyecto libre son más generales.
 
 Condiciones:
@@ -54,7 +85,7 @@ Condiciones:
  + Interacción y manejo a través de la consola
  + La dificultad es compleja de medir, pero al menos 800 líneas de code
  + Solución de un problema real
- + Dificultas similar a los juegos, no se vale un programa para calcular tablas de multiplicar.
+ + Dificultad similar a los juegos, no se vale un programa para calcular tablas de multiplicar.
 
 Ejemplos:
  + **Mecatronica:** Programa que suguiera combinaciones de resistencias comerciales a partir de una resistencia de un valor dado. -- Programa que permita elegir un motor DC a partir de unos requerimientos mecánicos y electronicos definidos. -- Programa que permita resolver ecuaciones de hasta 5to grado usando métodos númericos o soluciones cerradas.
@@ -64,7 +95,6 @@ Ejemplos:
  + **Agricola:** Un programa que permita hacer calculo de poligonales o un programa que permita use pronosticos climaticos para dar recomendaciones de ciertos cultivos.
 
  Pueden tomar más ideas de ejemplo del libro *Automate the Boring Stuff with Python*.
-
 
 
  ### Condiciones de entrega:
@@ -82,7 +112,7 @@ Ejemplos:
 	</tr>
   <tr style="text-align: left; vertical-align: middle;" bgcolor="#e4e4ed">
     <td style="color:#141414">Fecha</td>
-    <td style="color:#141414">Avance: Semana 14 <br> Entrega final: Semana 17<br> Se publicará horarios de presentación de 15 minutos para cada grupo, es posible que traiga uno o dos jurados para que den concepto de su solución.</td>
+    <td style="color:#141414">Avance: Según calendario definido <br> Entrega final: Según calendario definido<br> Se publicará horarios de presentación de 15 minutos para cada grupo, es posible que traiga uno o dos jurados para que den concepto de su solución.</td>
 	</tr>
   <tr style="text-align: left; vertical-align: middle;" bgcolor="#e4e4ed">
     <td style="color:#141414">Forma de trabajo</td>
@@ -98,8 +128,11 @@ Ejemplos:
   <tr style="text-align: left; vertical-align: middle;" bgcolor="#e4e4ed">
     <td style="color:#141414">Nota</td>
     <td style="color:#141414">
-    Avance (10%) - Definición de alternativa - Diagramas preliminares - Solución preliminar -> Exposición oral, 10 minutos.
-    Entrega Final (25%)
+    Avance (10%) <br>
+    Definición de alternativa - Diagramas preliminares - Solución preliminar -> Exposición oral, 10 minutos. <br>
+    Criterios evaluación avance: claridad de la exposición (20%), calidad de entregables (40%), temas del curso adecuadamente empleados (40%). <br>
+    Entrega Final (25%) <br>
+    Criterios evaluación entrega final: Funcionalidad (40%), repositorio (30%), claridad presentación (20%), bonus (10%).
     </td>
 	</tr>
 </table>
